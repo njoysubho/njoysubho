@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I am Sabyasachi Bhattacharya
 
-<!--
-**njoysubho/njoysubho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:small_blue_diamond: Java Developer :small_blue_diamond: AWS Certified Solution Architect Associate
 
-Here are some ideas to get you started:
+### 🛠 &nbsp;Tech Stack 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=Java&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+Also interested in  \
+:small_blue_diamond: Go \
+:small_blue_diamond: Kubernetes \
+:small_blue_diamond: Kotlin, Micronaut, Quarkus
+
+## Connect to me 
+
+:globe_with_meridians: [Blog](http://blog.sabyasachi.io/)\
+:green_book:  [dev.to](https://dev.to/sabyasachi/)\
+:link:  [Linkedin](https://www.linkedin.com/in/sabyasachi-bhattacharya-a0283950/)\
+:mailbox: [E-mail](mailto:njoysubho@gmail.com)
